@@ -67,9 +67,12 @@ This project implements a CNN-based stock prediction model that:
 - Transaction Cost Considered: 0.15% per trade
 
 ## Usage
+1.get image
+```bash
+python data_image.py
+```
 
-1. Train the model:
-
+2. Train the model:
 ```bash
 python cnn_train.py
 ```
