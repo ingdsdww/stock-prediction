@@ -43,7 +43,6 @@ This project implements a CNN-based stock prediction model that:
 ### Training Results
 - Training duration: ~2 hours
 - Final validation loss: 0.0042
-- Model accuracy on test set: 62.5%
 
 ## Backtesting Results
 
